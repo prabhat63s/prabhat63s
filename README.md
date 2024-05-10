@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *Next.js*
 
-- 👨‍💻 All of my projects are available at [https://prabhat-singh.vercel.app/](https://prabhat-singh.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prabhat-singh-portfolio.vercel.app/](https://prabhat-singh-portfolio.vercel.app/)
 
 - 📫 How to reach me *prabhat6914@gmail.com*
 
